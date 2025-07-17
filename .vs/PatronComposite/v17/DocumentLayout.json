@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{865599DC-B97B-40D5-B06E-68B21F7A7ED4}|Domain\\Domain.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\domain\\directorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865599DC-B97B-40D5-B06E-68B21F7A7ED4}|Domain\\Domain.csproj|solutionrelative:domain\\directorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865599DC-B97B-40D5-B06E-68B21F7A7ED4}|Domain\\Domain.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\domain\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865599DC-B97B-40D5-B06E-68B21F7A7ED4}|Domain\\Domain.csproj|solutionrelative:domain\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865599DC-B97B-40D5-B06E-68B21F7A7ED4}|Domain\\Domain.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\domain\\componentebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865599DC-B97B-40D5-B06E-68B21F7A7ED4}|Domain\\Domain.csproj|solutionrelative:domain\\componentebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0207CAE1-A2D8-425C-AD85-2FEBE30E49FB}|PatronComposite\\UI.csproj|c:\\aplicaciones\\visual studio 2022\\trabajos en visual studio 2022\\repos\\patroncomposite\\patroncomposite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0207CAE1-A2D8-425C-AD85-2FEBE30E49FB}|PatronComposite\\UI.csproj|solutionrelative:patroncomposite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Archivo.cs",
+              "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\Domain\\Archivo.cs",
+              "RelativeDocumentMoniker": "Domain\\Archivo.cs",
+              "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\Domain\\Archivo.cs",
+              "RelativeToolTip": "Domain\\Archivo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:37:59.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Directorio.cs",
+              "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\Domain\\Directorio.cs",
+              "RelativeDocumentMoniker": "Domain\\Directorio.cs",
+              "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\Domain\\Directorio.cs",
+              "RelativeToolTip": "Domain\\Directorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:27:19.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComponenteBase.cs",
+              "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\Domain\\ComponenteBase.cs",
+              "RelativeDocumentMoniker": "Domain\\ComponenteBase.cs",
+              "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\Domain\\ComponenteBase.cs",
+              "RelativeToolTip": "Domain\\ComponenteBase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:14:59.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\PatronComposite\\Program.cs",
+              "RelativeDocumentMoniker": "PatronComposite\\Program.cs",
+              "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PatronComposite\\PatronComposite\\Program.cs",
+              "RelativeToolTip": "PatronComposite\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T02:38:42.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
